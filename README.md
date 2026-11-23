@@ -1,4 +1,4 @@
-# Budget Manager (Release 1)
+# Budget Manager
 
 A small command-line tool to add, list, summarise, import and back up personal budget transactions. Built for Python I (Practice 1: Interactive Personal Budget Manager), using the techniques from the course slides (Sessions 07 and 10).
 
