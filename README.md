@@ -1,6 +1,6 @@
 # Budget Manager
 
-A small command-line tool to add, list, summarise, import and back up personal budget transactions. Built for Python I (Practice 1: Interactive Personal Budget Manager), using the techniques from the course slides (Sessions 07 and 10).
+A small command-line tool to add, list, summarise, import and back up personal budget transactions. Built for Python I course of IE University.
 
 ## Setup
 Python 3 only. No packages to install.
@@ -11,7 +11,7 @@ cd budget-manager
 ```
 
 ## Run
-Go into the `src` folder, then run the commands below. Data is saved in `transactions.json` in the folder you run from.
+Go into the `src` folder, then run the commands below. Data is saved in `transactions.json` in the folder you run from, holding the memory.
 
 ```
 cd src
